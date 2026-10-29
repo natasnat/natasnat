@@ -36,6 +36,7 @@ I'm passionate about turning geospatial data into practical applications and mea
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
 <img src="https://img.shields.io/badge/GDAL-4B8B3B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
 <p>
