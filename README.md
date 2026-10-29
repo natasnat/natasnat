@@ -2,6 +2,23 @@
 
 <div align="center">
 
+
+Geoinformatics (M.Sc.), based in Bonn. I work with geospatial data, from radar remote sensing to WebGIS applications, and I'm building up my skills in full-stack development.
+
+## Tech stack
+
+- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS
+- **Backend:** Java (Spring), Python, REST APIs, SQL
+- **Geospatial:** OpenLayers, GeoServer, PostGIS, QGIS, GDAL, ArcGIS Pro
+- **Services and formats:** WMS, WMTS, WFS, WCS, GeoJSON, STAC API, NetCDF, GeoTIFF
+- **Tools:** Git, GitLab, GitHub, Jupyter, Linux, Postman, Jira
+
+## Research
+
+My focus in research is radar remote sensing: Sentinel-1 time series and Persistent Scatterer Interferometry (PSI), mostly analysed with Python and R in Jupyter notebooks.
+
+In 2025 I published papers as first author and co-author in *Sensors* and *Remote Sensing*.
+
 ### <samp>Geoinformatics · Earth Observation · WebGIS</samp>
 
 **Geospatial Data Infrastructure · Geodatabases · Full-Stack Engineering**
