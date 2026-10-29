@@ -22,16 +22,12 @@ I'm passionate about turning geospatial data into practical applications and mea
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend Development
-
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
-### 🗺️ Geospatial Technologies
 
 <p>
 <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge" />
@@ -42,8 +38,6 @@ I'm passionate about turning geospatial data into practical applications and mea
 <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge" />
 </p>
 
-### ⚙️ Backend & Data 
-
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -51,8 +45,6 @@ I'm passionate about turning geospatial data into practical applications and mea
 <img src="https://img.shields.io/badge/REST_API-168BFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
 </p>
-
-### 🔧 Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
