@@ -22,8 +22,6 @@ I'm passionate about turning geospatial data into practical applications and mea
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack & Skills
-
 ### 🌐 Frontend Development
 
 <p>
