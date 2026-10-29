@@ -22,32 +22,40 @@ I'm passionate about turning geospatial data into practical applications and mea
 
 ## Tech Stack
 
+### 🌐 Frontend & WebGIS
+
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge" />
 </p>
 
+### 🗺️ GIS & Earth Observation
+
 <p>
-<img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GeoServer-3977A8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-<img src="https://img.shields.io/badge/GDAL-4B8B3B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ArcGIS_Online-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white" />
+<img src="https://img.shields.io/badge/ArcGIS_Online-2C7AC3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GDAL-4B8B3B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
+
+### ⚙️ Backend & Data Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge" />
 <img src="https://img.shields.io/badge/REST_API-168BFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
 </p>
+
+### 🔧 Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
