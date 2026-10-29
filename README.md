@@ -4,7 +4,7 @@ I'm interested in working with geospatial data, from processing and analysis to 
 
 ---
 
-| Bereich | Technologien |
+| Area | Tech Stack |
 | --- | --- |
 | **Frontend** | `JavaScript` · `TypeScript` · `HTML` · `CSS` · `OpenLayers` |
 | **Geospatial** | `QGIS` · `ArcGIS Pro` · `ArcGIS Online` · `GeoServer` · `PostGIS` · `GDAL` |
