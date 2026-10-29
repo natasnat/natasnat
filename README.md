@@ -4,8 +4,6 @@ I'm interested in working with geospatial data, from processing and analysis to 
 
 ---
 
-### Technologies
-
 **Frontend**  
 `JavaScript` · `TypeScript` · `HTML` · `CSS` · `OpenLayers`
 
