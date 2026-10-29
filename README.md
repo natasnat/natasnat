@@ -1,6 +1,11 @@
 # Hi, I'm Natascha 👋
 
-My passion is working with geospatial data
+My passion is working with geospatial data. My work covers:
+
+- Vector and raster data processing
+- Remote sensing and GIS analysis
+- Geodatabases
+- WebGIS applications
 
 ---
 
