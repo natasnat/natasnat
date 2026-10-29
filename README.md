@@ -57,10 +57,11 @@ I'm passionate about turning geospatial data into practical applications and mea
 
 ---
 
-## 🛰️ Research & Earth Observation
+## 🛰️ Research 
 
-- **Radar Remote Sensing:** Sentinel-1 time series and Persistent Scatterer Interferometry (PSI)
-- **Publications:** First-author and co-author papers published in *Sensors* and *Remote Sensing* (2025)
+- [Novel Amplitude-Based Approach for Reducing Sidelobes in Persistent Scatterer Interferometry Processing Using Spatially Variant Apodization](https://doi.org/10.3390/s26010204) — *Sensors* (2026).
+  
+- [Identifying Deformation Drivers in Dam Segments Using Combined X- and C-Band PS Time Series](https://doi.org/10.3390/rs17152629) — *Remote Sensing* (2025). 
 
 ---
 
