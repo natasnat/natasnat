@@ -1,4 +1,4 @@
-# Natascha Liedel
+# Natascha 
 
 Geoinformatics (M.Sc.), based in Bonn. I work with geospatial data, from radar remote sensing to WebGIS applications, and I'm building up my skills in full-stack development.
 
