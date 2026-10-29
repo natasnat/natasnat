@@ -32,10 +32,12 @@ I'm passionate about turning geospatial data into practical applications and mea
 <p>
 <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GeoServer-3977A8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
 <img src="https://img.shields.io/badge/GDAL-4B8B3B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ArcGIS_Online-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
