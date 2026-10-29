@@ -42,10 +42,6 @@ I'm passionate about turning geospatial data into practical applications and mea
 <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge" />
 </p>
 
-**Spatial Data & Services**
-
-WMS · WMTS · WFS · WCS · GeoJSON · STAC API
-
 ### ⚙️ Backend & Data 
 
 <p>
