@@ -2,46 +2,11 @@
 
 <div align="center">
 
-
-Geoinformatics (M.Sc.), based in Bonn. I work with geospatial data, from radar remote sensing to WebGIS applications, and I'm building up my skills in full-stack development.
-
-## Tech stack
-
-- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS
-- **Backend:** Java (Spring), Python, REST APIs, SQL
-- **Geospatial:** OpenLayers, GeoServer, PostGIS, QGIS, GDAL, ArcGIS Pro
-- **Services and formats:** WMS, WMTS, WFS, WCS, GeoJSON, STAC API, NetCDF, GeoTIFF
-- **Tools:** Git, GitLab, GitHub, Jupyter, Linux, Postman, Jira
-
-## Research
-
-My focus in research is radar remote sensing: Sentinel-1 time series and Persistent Scatterer Interferometry (PSI), mostly analysed with Python and R in Jupyter notebooks.
-
-In 2025 I published papers as first author and co-author in *Sensors* and *Remote Sensing*.
-
-### <samp>Geoinformatics · Earth Observation · WebGIS</samp>
-
-**Geospatial Data Infrastructure · Geodatabases · Full-Stack Engineering**
-
-<img src="https://img.shields.io/badge/Geospatial-Development-168BFF?style=flat-square" />
-<img src="https://img.shields.io/badge/Remote-Sensing-7957D5?style=flat-square" />
-<img src="https://img.shields.io/badge/Full--Stack-Engineering-238636?style=flat-square" />
-
-</div>
-
 ---
 
 ## 🎯 About Me
 
-Geoinformatics graduate (M.Sc.) combining **geospatial expertise, scientific data analysis, and software development**. Experienced in building WebGIS applications, processing Earth observation data, and developing Python-based workflows.
-
-My background spans frontend development, backend services, spatial databases, and radar remote sensing. I'm now expanding this experience into **full-stack engineering**.
-
-- 🌐 **Frontend:** Angular, TypeScript, JavaScript
-- ⚙️ **Backend:** Java, Spring, Python, REST APIs
-- 🗺️ **Geospatial:** OpenLayers, GeoServer, PostGIS, QGIS
-- 🛰️ **Research:** Sentinel-1, SAR, PSI, Earth Observation
-- 📍 **Location:** Bonn, Germany
+Geoinformatics (M.Sc.), based in Bonn. I work with geospatial data, from radar remote sensing to WebGIS applications, and I'm building up my skills in full-stack development.
 
 ---
 
@@ -96,18 +61,8 @@ My background spans frontend development, backend services, spatial databases, a
 
 ---
 
-## 🛰️ Research & Earth Observation
-
-- **Radar Remote Sensing:** Sentinel-1 time series and Persistent Scatterer Interferometry (PSI)
-- **Scientific Computing:** Python, R, Jupyter Notebooks
-- **Geospatial Data Infrastructure:** STAC APIs, GDAL, NetCDF, GeoTIFF
-- **Publications:** First-author and co-author papers published in *Sensors* and *Remote Sensing* (2025)
-
----
 
 <div align="center">
-
-### 💙 From spatial data to full-stack solutions.
 
 <sub>Explore · Build · Learn · Repeat</sub>
 
