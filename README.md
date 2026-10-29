@@ -2,9 +2,9 @@ Hi there, I'm Natascha! 👋
 
 <div align="center">
 
-🌍 Geoinformatics · Geospatial Development · Full-Stack Engineering
+🌍 Geoinformatics · Earth Observation · WebGIS
 
-Connecting geospatial data, web technologies, and software engineering.
+🗺️ Geospatial Data Infrastructure · Geodatabases · Full-Stack Engineering
 
 
 
