@@ -14,13 +14,13 @@ Geospatial Data Infrastructure · Spatial Databases · Full-Stack Engineering
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm passionate about turning geospatial data into practical applications and meaningful insights. With a background in frontend development, backend services, spatial databases, and radar remote sensing, I'm expanding my expertise in full-stack engineering.
 
 📍 Bonn, Germany
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
