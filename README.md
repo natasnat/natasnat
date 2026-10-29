@@ -1,80 +1,97 @@
-Hi there, I'm Natascha! 👋
+# Hi there, I'm Natascha! 👋
 
 <div align="center">
 
-🌍 Geoinformatics · Earth Observation · WebGIS
+### <samp>Geoinformatics · Earth Observation · WebGIS</samp>
 
-🗺️ Geospatial Data Infrastructure · Geodatabases · Full-Stack Engineering
+**Geospatial Data Infrastructure · Geodatabases · Full-Stack Engineering**
 
-
-
+<img src="https://img.shields.io/badge/Geospatial-Development-168BFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Remote-Sensing-7957D5?style=flat-square" />
+<img src="https://img.shields.io/badge/Full--Stack-Engineering-238636?style=flat-square" />
 
 </div>
 
-🎯 About Me
+---
 
-I'm a Geoinformatics graduate (M.Sc.) with a background in geospatial web development, remote sensing, and scientific data analysis. I enjoy building applications that connect spatial data, modern web technologies, and backend services.
+## 🎯 About Me
 
-My experience spans WebGIS development, geospatial data infrastructures, radar remote sensing, and scientific Python workflows. I'm now moving into full-stack development, bringing together my knowledge of frontend technologies, Java, APIs, databases, and geospatial systems.
+Geoinformatics graduate (M.Sc.) combining **geospatial expertise, scientific data analysis, and software development**. Experienced in building WebGIS applications, processing Earth observation data, and developing Python-based workflows.
 
-💻 Focus: Full-Stack Development
+My background spans frontend development, backend services, spatial databases, and radar remote sensing. I'm now expanding this experience into **full-stack engineering**.
 
-🌐 Frontend: JavaScript, TypeScript, Angular, HTML, CSS
+- 🌐 **Frontend:** Angular, TypeScript, JavaScript
+- ⚙️ **Backend:** Java, Spring, Python, REST APIs
+- 🗺️ **Geospatial:** OpenLayers, GeoServer, PostGIS, QGIS
+- 🛰️ **Research:** Sentinel-1, SAR, PSI, Earth Observation
+- 📍 **Location:** Bonn, Germany
 
-🗺️ Geospatial: OpenLayers, QGIS, GeoServer, PostGIS
+---
 
-⚙️ Backend: Java, Spring, Python, REST APIs, SQL
+## 🛠️ Tech Stack & Skills
 
-🛰️ Research: Earth observation, Sentinel-1, SAR, PSI
-
-📍 Based in: Bonn, Germany
-
-🛠️ Tech Stack & Skills
-
-🌐 Frontend Development
+### 🌐 Frontend Development
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-🗺️ Geospatial Technologies
+### 🗺️ Geospatial Technologies
 
 <p>
-<img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge" alt="OpenLayers"/>
-<img src="https://img.shields.io/badge/GeoServer-3977A8?style=for-the-badge" alt="GeoServer"/>
-<img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS"/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
-<img src="https://img.shields.io/badge/GDAL-4B8B3B?style=for-the-badge" alt="GDAL"/>
-<img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge" alt="ArcGIS Pro"/>
+<img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GeoServer-3977A8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/GDAL-4B8B3B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge" />
 </p>
 
-Spatial data & services
+**Spatial Data & Services**
 
-WMS · WMTS · WFS · WCS · GeoJSON · STAC API
+`WMS` · `WMTS` · `WFS` · `WCS` · `GeoJSON` · `STAC API`
 
-⚙️ Backend & Data
+### ⚙️ Backend & Data Engineering
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/REST_API-2389FF?style=for-the-badge" alt="REST API"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-168BFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
 </p>
 
-🔧 Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
+
+---
+
+## 🛰️ Research & Earth Observation
+
+- **Radar Remote Sensing:** Sentinel-1 time series and Persistent Scatterer Interferometry (PSI)
+- **Scientific Computing:** Python, R, Jupyter Notebooks
+- **Geospatial Data Infrastructure:** STAC APIs, GDAL, NetCDF, GeoTIFF
+- **Publications:** First-author and co-author papers published in *Sensors* and *Remote Sensing* (2025)
+
+---
+
+<div align="center">
+
+### 💙 From spatial data to full-stack solutions.
+
+<sub>Explore · Build · Learn · Repeat</sub>
 
 </div>
