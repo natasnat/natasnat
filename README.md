@@ -16,7 +16,7 @@ Geospatial Data Infrastructure · Spatial Databases · Full-Stack Engineering
 
 ## About Me
 
-I'm passionate about turning geospatial data into practical applications and meaningful insights. With a background in frontend development, backend services, spatial databases, and radar remote sensing, I'm expanding my expertise in full-stack engineering.
+I'm interested in geospatial data, web development, and Earth observation. My work spans WebGIS, spatial databases, and radar remote sensing, and I'm currently exploring more of the full-stack side of things.
 
 📍 Bonn, Germany
 
