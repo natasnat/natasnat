@@ -31,6 +31,7 @@ My experience spans WebGIS development, geospatial data infrastructures, radar r
 
 🛠️ Tech Stack & Skills
 
+🌐 Frontend Development
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
