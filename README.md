@@ -8,10 +8,16 @@ I'm interested in working with geospatial data, from processing and analysis to 
 `JavaScript` · `TypeScript` · `HTML` · `CSS` · `OpenLayers`
 
 **Geospatial**  
-`QGIS` · `GeoServer` · `PostGIS` · `GDAL` · `ArcGIS Pro`
+`QGIS` · `ArcGIS Pro` · `ArcGIS Online` · `GeoServer` · `PostGIS` · `GDAL`  
+
+**Remote Sensing**
+`Sentinel` · `SAR` · `Persistent Scatterer Interferometry (PSI)`
+
+**Databases**
+`PostgreSQL` · `PostGIS` · `SQL`
 
 **Backend & Data**  
-`Java` · `Spring` · `Python` · `SQL` · `REST APIs`
+`Java` · `Spring` · `Python` · `REST APIs`
 
 **Geospatial Standards**  
 `WMS` · `WMTS` · `WFS` · `WCS` · `GeoJSON` · `STAC API`
