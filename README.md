@@ -1,3 +1,22 @@
+Geoinformatics (M.Sc.), based in Bonn.
+
+My passion is working with geospatial data, from radar satellite scenes to web maps.
+
+## Tech stack
+
+- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS
+- **Backend:** Java (Spring), Python, REST APIs, SQL
+- **Geospatial:** OpenLayers, GeoServer, PostGIS, QGIS, GDAL, ArcGIS Pro
+- **Services and formats:** WMS, WMTS, WFS, WCS, GeoJSON, STAC API, NetCDF, GeoTIFF
+- **Tools:** Git, GitLab, GitHub, Jupyter, Linux, Postman, Jira
+
+## Research
+
+Radar remote sensing with Sentinel-1 time series and Persistent Scatterer Interferometry (PSI), mostly in Python and R.
+
+First-author and co-author papers in *Sensors* and *Remote Sensing* (2025).
+
+
 # Hi there, I'm Natascha! 👋
 
 <div align="center">
@@ -57,20 +76,3 @@ My passion is working with geospatial data.
 
  
 
-Geoinformatics (M.Sc.), based in Bonn.
-
-My passion is working with geospatial data, from radar satellite scenes to web maps.
-
-## Tech stack
-
-- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS
-- **Backend:** Java (Spring), Python, REST APIs, SQL
-- **Geospatial:** OpenLayers, GeoServer, PostGIS, QGIS, GDAL, ArcGIS Pro
-- **Services and formats:** WMS, WMTS, WFS, WCS, GeoJSON, STAC API, NetCDF, GeoTIFF
-- **Tools:** Git, GitLab, GitHub, Jupyter, Linux, Postman, Jira
-
-## Research
-
-Radar remote sensing with Sentinel-1 time series and Persistent Scatterer Interferometry (PSI), mostly in Python and R.
-
-First-author and co-author papers in *Sensors* and *Remote Sensing* (2025).
