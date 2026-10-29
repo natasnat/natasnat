@@ -20,11 +20,11 @@ Geoinformatics graduate (M.Sc.) combining **geospatial expertise, scientific dat
 
 My background spans frontend development, backend services, spatial databases, and radar remote sensing. I'm now expanding this experience into **full-stack engineering**.
 
- 🌐 **Frontend:** Angular, TypeScript, JavaScript
- ⚙️ **Backend:** Java, Spring, Python, REST APIs
- 🗺️ **Geospatial:** OpenLayers, GeoServer, PostGIS, QGIS
- 🛰️ **Research:** Sentinel-1, SAR, PSI, Earth Observation
- 📍 **Location:** Bonn, Germany
+- 🌐 **Frontend:** Angular, TypeScript, JavaScript
+- ⚙️ **Backend:** Java, Spring, Python, REST APIs
+- 🗺️ **Geospatial:** OpenLayers, GeoServer, PostGIS, QGIS
+- 🛰️ **Research:** Sentinel-1, SAR, PSI, Earth Observation
+- 📍 **Location:** Bonn, Germany
 
 ---
 
