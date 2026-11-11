@@ -78,8 +78,6 @@ I'm interested in geospatial data, web development, and Earth observation. My wo
 
 <div align="center">
 
-### 💙 From spatial data to full-stack solutions.
-
 <sub>Explore · Build · Learn · Repeat</sub>
 
 </div>
