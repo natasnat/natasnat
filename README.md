@@ -40,6 +40,7 @@ I'm interested in geospatial data, web development, and Earth observation. My wo
 <img src="https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ArcGIS_Online-2C7AC3?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GDAL-4B8B3B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SNAP-EA1B2D?style=for-the-badge&logo=snapchat&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
